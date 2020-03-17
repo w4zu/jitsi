@@ -1,4 +1,4 @@
-#jitsi
+#jitsi for debian/ubuntu server
 #Root requiered
 # change varible website before run this script 
 #https://github.com/jitsi/jitsi-meet/blob/master/doc/quick-install.md
