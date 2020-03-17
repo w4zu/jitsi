@@ -1,6 +1,6 @@
 #jitsi for debian/ubuntu server
 #Root requiered
-# change varible website before run this script 
+# change variable website before run this script 
 #https://github.com/jitsi/jitsi-meet/blob/master/doc/quick-install.md
 # VARIABLE TO CHANGE 
 website=jisti.youdomain.com # use the same during installation of jisti
