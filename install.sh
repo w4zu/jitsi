@@ -1,3 +1,4 @@
+#!/bin/bash
 #jitsi for debian/ubuntu server
 #Root requiered
 # change variable website before run this script 
