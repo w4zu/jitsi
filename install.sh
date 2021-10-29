@@ -15,5 +15,5 @@ sleep 10
 apt-get -y install jitsi-meet
 echo "Generate a let's encrypt certificat if you want : /usr/share/jitsi-meet/scripts/install-letsencrypt-cert.sh or certbot -d $website --no-eff-email --no-redirect"
 a2ensite $website
-/etc/init.d/apache2 reload; systemctl reload apache2
+/usr/sbin/apachectl configtest && /etc/init.d/apache2 reload
 echo "go to http://$website"
